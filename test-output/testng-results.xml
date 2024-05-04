@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-04T13:48:09 IST" name="RahulShettyDemoSuite" finished-at="2024-05-04T13:48:20 IST" duration-ms="10920">
+    <groups>
+    </groups>
+    <test started-at="2024-05-04T13:48:09 IST" name="Login Testcase" finished-at="2024-05-04T13:48:20 IST" duration-ms="10920">
+      <class name="com.qa.testcases.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.LoginTest@327514f]" started-at="2024-05-04T13:48:10 IST" name="setUp" finished-at="2024-05-04T13:48:13 IST" duration-ms="3563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyWithInvalidCredentials()[pri:0, instance:com.qa.testcases.LoginTest@327514f]" started-at="2024-05-04T13:48:13 IST" name="verifyWithInvalidCredentials" finished-at="2024-05-04T13:48:15 IST" duration-ms="1524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWithInvalidCredentials -->
+        <test-method signature="verifyTheForgetPasswordCredntials()[pri:1, instance:com.qa.testcases.LoginTest@327514f]" started-at="2024-05-04T13:48:15 IST" name="verifyTheForgetPasswordCredntials" finished-at="2024-05-04T13:48:15 IST" duration-ms="824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheForgetPasswordCredntials -->
+        <test-method signature="verifyWithValidCredentials()[pri:2, instance:com.qa.testcases.LoginTest@327514f]" started-at="2024-05-04T13:48:16 IST" name="verifyWithValidCredentials" finished-at="2024-05-04T13:48:18 IST" duration-ms="2485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWithValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginTest@327514f]" started-at="2024-05-04T13:48:18 IST" name="tearDown" finished-at="2024-05-04T13:48:20 IST" duration-ms="1821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testcases.LoginTest -->
+    </test> <!-- Login Testcase -->
+  </suite> <!-- RahulShettyDemoSuite -->
+</testng-results>
